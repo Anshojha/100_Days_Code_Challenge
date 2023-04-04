@@ -2,7 +2,7 @@
 Today I created the repo to update and keep track of my learning.<br>
 # Day 2
 Today I studied about the STL in cpp 
-- ## Day 3
+## Day 3
  Today I attended an event in IIT madras which was one of the best experices till now in attending the events.<br>
  I also get the chance to meet and connect with so many talented and best people of the industry .<br>
  And also I got the chance to explore the lush green campus of iitm.<br>
@@ -16,4 +16,10 @@ Today I studied about the STL in cpp
 - deque<br>
 - arrays<br>
 - forward_list<br>
-You can check [here](https://github.com/Anshojha/DataStructure_And_Algorithm/commit/a0510091208e3e336851e78f63c4fd85164e2507)
+You can check [here](https://github.com/Anshojha/DataStructure_And_Algorithm/commit/a0510091208e3e336851e78f63c4fd85164e2507)<br>
+
+## Day 5
+Studied DSA and try to debug
+- Queue
+- Priority [Queue](https://github.com/Anshojha/DataStructure_And_Algorithm/commit/5d194014d005528e459f465cb5c2b33b2f485625)
+- Alos try to debug the backed error in which unable to save the data on [firestore](https://github.com/Anshojha/React_Js/commit/1016e61fddbde7d7224ed33feb9b659e864fe561)
