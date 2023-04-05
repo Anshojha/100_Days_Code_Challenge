@@ -23,3 +23,10 @@ Studied DSA and try to debug
 - Queue
 - Priority [Queue](https://github.com/Anshojha/DataStructure_And_Algorithm/commit/5d194014d005528e459f465cb5c2b33b2f485625)
 - Alos try to debug the backed error in which unable to save the data on [firestore](https://github.com/Anshojha/React_Js/commit/1016e61fddbde7d7224ed33feb9b659e864fe561)
+
+## Day 6
+Today , I studied about <br>
+- Algorithm <br>
+- And used different types of algorithm <br>
+- Map and map function <br>
+- Do record work for the sem exam <br>
