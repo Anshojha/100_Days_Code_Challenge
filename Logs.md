@@ -31,3 +31,7 @@ Today , I studied about <br>
 - Map and map function <br>
 - Do record work for the sem exam <br>
 - To check [Click](https://github.com/Anshojha/DataStructure_And_Algorithm/commit/84c9f2fe9324601934625032b9fbca4b0779a9e5)
+
+## Day 7
+- Studied about mongoose database 
+- Click [here](https://github.com/Anshojha/MongoDb/commit/47db2cbb1489a5252076e546f06e83269836929f) to check
