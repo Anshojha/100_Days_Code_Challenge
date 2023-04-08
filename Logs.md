@@ -35,3 +35,7 @@ Today , I studied about <br>
 ## Day 7
 - Studied about mongoose database 
 - Click [here](https://github.com/Anshojha/MongoDb/commit/47db2cbb1489a5252076e546f06e83269836929f) to check
+
+## Day 8
+- Today I get a chance to attend the hands on session on smart contract and how to deployee smart contract
+- And also explore the vit chennai campus with my friends 
