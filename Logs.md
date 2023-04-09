@@ -38,4 +38,9 @@ Today , I studied about <br>
 
 ## Day 8
 - Today I get a chance to attend the hands on session on smart contract and how to deployee smart contract
-- And also explore the vit chennai campus with my friends 
+- And also explore the vit chennai campus with my friends <br>
+
+## Day 9
+- Completed AAP record work
+- also Os and started DAA record work
+- Today , I went to gurudwara and had lunger in the gurudwara 
