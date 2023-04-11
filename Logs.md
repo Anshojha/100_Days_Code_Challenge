@@ -48,4 +48,9 @@ Today , I studied about <br>
 
 - Still doing my record work
 - I didn't posted for the last three days to socaial media 
-- Because I'm doing record work
+- Because I'm doing record work<br>
+
+## Day 11
+- Today I finished NewsMonkey
+- And started another MERN project
+- And still completeing my records
