@@ -54,3 +54,8 @@ Today , I studied about <br>
 - Today I finished NewsMonkey
 - And started another MERN project
 - And still completeing my records
+
+## Day 12 <br>
+- Learn to connect the [mongoose](https://github.com/Anshojha/React_Js/commit/578cae48be45d89194d7ce706c4892e6388728b2) <br>
+- Created another folder for [backend](https://github.com/Anshojha/React_Js/commit/3e25044a16ba236fef3dbeee12c79622ff7a02a2) <br>
+- Also I try my best not to use smart phone more then hour <br>
