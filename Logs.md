@@ -1,4 +1,4 @@
-# Day 1
+8ù# Day 1
 Today I created the repo to update and keep track of my learning.<br>
 # Day 2
 Today I studied about the STL in cpp 
@@ -59,3 +59,9 @@ Today , I studied about <br>
 - Learn to connect the [mongoose](https://github.com/Anshojha/React_Js/commit/578cae48be45d89194d7ce706c4892e6388728b2) <br>
 - Created another folder for [backend](https://github.com/Anshojha/React_Js/commit/3e25044a16ba236fef3dbeee12c79622ff7a02a2) <br>
 - Also I try my best not to use smart phone more then hour <br>
+<br>
+
+## Day 13 <br>
+- Followed the MERN course from you tube  <br>
+- And completed my DAA  <br>
+- Went for night out and gurudwara
