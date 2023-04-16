@@ -64,4 +64,9 @@ Today , I studied about <br>
 ## Day 13 <br>
 - Followed the MERN course from you tube  <br>
 - And completed my DAA  <br>
-- Went for night out and gurudwara
+- Went for night out and gurudwara <br>
+
+## Day 14 <br> 
+- Today I went for the event for a whole day <br>
+- Try to save the the data to database <br>
+- For today's work [click](https://github.com/Anshojha/React_Js/commit/78e83cfa6c99fb9f95aae915c9068936451ed84b)  <br>
