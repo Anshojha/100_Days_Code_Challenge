@@ -70,3 +70,9 @@ Today , I studied about <br>
 - Today I went for the event for a whole day <br>
 - Try to save the the data to database <br>
 - For today's work [click](https://github.com/Anshojha/React_Js/commit/78e83cfa6c99fb9f95aae915c9068936451ed84b)  <br>
+
+## Day 15 <br>
+- Today I used Express Validator to validate the user details <br>
+- Only Today I did half hour of coding  <br>
+- And also try to complete the Record <br>
+- You can check my todays code [here](https://github.com/Anshojha/React_Js/commit/7afbbc6369be8a260d854d60c111206987f8c924) <br>
