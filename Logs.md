@@ -76,3 +76,9 @@ Today , I studied about <br>
 - Only Today I did half hour of coding  <br>
 - And also try to complete the Record <br>
 - You can check my todays code [here](https://github.com/Anshojha/React_Js/commit/7afbbc6369be8a260d854d60c111206987f8c924) <br>
+
+## Day 16 <br>
+- Use thundser client of vscode to manage the requet in collection  <br>
+- Completed the DAA record  <br>
+- Started doing CC  <br>
+- Todays logs are [here](https://github.com/Anshojha/React_Js/commit/2aa7fd507a6e370c83c4497772e9408192f716aa)  <br>
