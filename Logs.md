@@ -82,3 +82,7 @@ Today , I studied about <br>
 - Completed the DAA record  <br>
 - Started doing CC  <br>
 - Todays logs are [here](https://github.com/Anshojha/React_Js/commit/2aa7fd507a6e370c83c4497772e9408192f716aa)  <br>
+## Day 17 <br>
+- Created a middleware to decode the jasonwebtokn to decode the user  <br>
+- Still doing my Computer Communcication record <br>
+- Wants to check [click](https://github.com/Anshojha/React_Js/commit/2bb07daab57afcc86f3f74b6f068ff7aef7bd5f1) <br>
