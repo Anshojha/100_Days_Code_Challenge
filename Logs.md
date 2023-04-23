@@ -86,3 +86,11 @@ Today , I studied about <br>
 - Created a middleware to decode the jasonwebtokn to decode the user  <br>
 - Still doing my Computer Communcication record <br>
 - Wants to check [click](https://github.com/Anshojha/React_Js/commit/2bb07daab57afcc86f3f74b6f068ff7aef7bd5f1) <br>
+## Day 18 <br>
+- Started the [e-commerce webpage](https://github.com/Anshojha/ecommerce) as a task by the codechef <br>
+- And also played badminton for 2 hours long after couples of months <br>
+## Day 19 <br>
+- Completed the CC record and did no code bad day <br>
+## Day 20 <br>
+- Today I did some coding but not effectively 
+- Today I also tried to comleted the sepm
