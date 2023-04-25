@@ -95,4 +95,10 @@ Today , I studied about <br>
 - Today I did some coding but not effectively 
 - Today I also tried to comleted the sepm
 ## Day 21 <br>
-- Today I still standing at printout shop to get the printout 
+- Today I still standing at printout shop to get the printout  <br>
+- Also try to prepared for the APP model lab <br>
+## Day 22 <br>
+- Today I started building the login page for the task <br>
+- And got all the record work corrected <br>
+- Started tailwind css also <br>
+
