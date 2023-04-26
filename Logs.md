@@ -101,4 +101,7 @@ Today , I studied about <br>
 - Today I started building the login page for the task <br>
 - And got all the record work corrected <br>
 - Started tailwind css also <br>
-
+## Day 23 <br>
+- Created a [login](https://github.com/Anshojha/e-commerce/commit/d565af256c29cf8304921145fe765bf416b6b6da) page <br>
+- And today learned how to use the tailwind css <br>
+- Prepared for OS and DAA model lab <br>
