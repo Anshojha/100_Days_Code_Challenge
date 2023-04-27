@@ -105,3 +105,7 @@ Today , I studied about <br>
 - Created a [login](https://github.com/Anshojha/e-commerce/commit/d565af256c29cf8304921145fe765bf416b6b6da) page <br>
 - And today learned how to use the tailwind css <br>
 - Prepared for OS and DAA model lab <br>
+## Day 24 <br>
+- Completed the [login](https://github.com/Anshojha/e-commerce/commit/68c554afc4d210f89c5c0d8c35feee936b5a62de) page opacity
+- Prepared for the CC modal lab
+- Use the tailwind css  
