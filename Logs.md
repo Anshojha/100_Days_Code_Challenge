@@ -112,3 +112,9 @@ Today , I studied about <br>
 ## Day 25 <br>
 - Today I completed 80% of the task [e-commerce ](https://github.com/Anshojha/e-commerce/commit/f3099093b896e6e682cea2fe50d0b2d481e3042b)
 - Today I started preparing for ct3
+## Day 26 <br>
+- Today I forked a repo to push my part to the [project ](https://github.com/Anshojha/ecom)
+- Revised some maths problem for ct3
+- And went outside for bike riding and have lots of fun 
+- Ane we host our [ecommerce ](https://ecom-adribv.vercel.app/)
+- Completed our task
