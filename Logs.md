@@ -118,3 +118,6 @@ Today , I studied about <br>
 - And went outside for bike riding and have lots of fun 
 - Ane we host our [ecommerce ](https://ecom-adribv.vercel.app/)
 - Completed our task
+## Day 27 <br>
+- Today we are submitted the project to development team
+- And Prepared for ct3
