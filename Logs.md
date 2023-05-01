@@ -109,3 +109,6 @@ Today , I studied about <br>
 - Completed the [login](https://github.com/Anshojha/e-commerce/commit/68c554afc4d210f89c5c0d8c35feee936b5a62de) page opacity
 - Prepared for the CC modal lab
 - Use the tailwind css  
+## Day 25 <br>
+- Today I completed 80% of the task [e-commerce ](https://github.com/Anshojha/e-commerce/commit/f3099093b896e6e682cea2fe50d0b2d481e3042b)
+- Today I started preparing for ct3
