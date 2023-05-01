@@ -121,3 +121,5 @@ Today , I studied about <br>
 ## Day 27 <br>
 - Today we are submitted the project to development team
 - And Prepared for ct3
+## Day 28 <br>
+-Tiday i only did maths i
