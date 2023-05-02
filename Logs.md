@@ -123,3 +123,5 @@ Today , I studied about <br>
 - And Prepared for ct3
 ## Day 28 <br>
 -Tiday i only did maths i
+## Day 29 <br>
+- Preparing for the Computer Communication
