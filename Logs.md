@@ -125,3 +125,6 @@ Today , I studied about <br>
 -Tiday i only did maths i
 ## Day 29 <br>
 - Preparing for the Computer Communication
+## Day 30 <br>
+- Today I am preparing for the DAA test 
+- Studied many algorithm's during preparation
