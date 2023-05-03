@@ -10,6 +10,7 @@ I will focus on DSA and development during this 100_Days_Code_Challenge.
 6. I am requesting vistors to suggest or advice me to increase the productivity during the challenge.
 7. If I ever have to take a break longer than a day (because of Sem Exams , sickness , etc). I will cover up for those days by adding 1 extra days to the challenge on top of covering up for that perticular .
 8. I will also keep on updating in [Logs.md]().
+9. During exams I can prepare for the exam
 
 # 🌐  My Socials to connect 
 
