@@ -128,3 +128,5 @@ Today , I studied about <br>
 ## Day 30 <br>
 - Today I am preparing for the DAA test 
 - Studied many algorithm's during preparation
+## Day 31 <br>
+- Preparing for OS
