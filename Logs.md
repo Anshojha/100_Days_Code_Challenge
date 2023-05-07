@@ -131,3 +131,11 @@ Today , I studied about <br>
 ## Day 31 <br>
 - Preparing for OS
 ## Day 32 <br>
+- Suffering with lower back pain
+## Day 33 <br>
+- Started preparing for SEPM
+- Went out to St. Thomas mount with friends
+- And do some coding to debug the [error](https://github.com/Anshojha/React_Js/commit/ee9f5facdd169752fbeebd390c8d39a8e91925ea)
+## Day 34 <br>
+- Watched 2 videos of DSA
+- Solve 2 qustion of Merging two array
