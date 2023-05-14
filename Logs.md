@@ -141,5 +141,15 @@ Today , I studied about <br>
 - Solve 2 qustion of Merging two array
 ## Day 35 <br> 
 - Today , I am preparing for APP
-## Dsy 36 <br>
+## Day 36 <br>
 - Today , I am taking a rest day 
+## Day 37 <br>
+- Today I prepared for the sepm university practical exam 
+## Day 38 <br>
+- Practised Leet code 
+## Day 39 <br>
+- Practised Leet code 
+## Day 40 <br>
+- Practised Leet code 
+## Day 41 <br>
+- Practised Leet Code
