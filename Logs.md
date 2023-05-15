@@ -153,3 +153,5 @@ Today , I studied about <br>
 - Practised Leet code 
 ## Day 41 <br>
 - Practised Leet Code
+## Day 42 <br>
+- Prepartion of APP university practical [exam](https://github.com/Anshojha/Python/commit/e102f76279f939b29070a485647c627d5c33ea19)
