@@ -156,5 +156,5 @@ Today , I studied about <br>
 ## Day 42 <br>
 - Prepartion of APP university practical [exam](https://github.com/Anshojha/Python/commit/e102f76279f939b29070a485647c627d5c33ea19)
 ## Day 43 <br>
-- Solved easy problem of leetCode easy problem of array
+- Solved leetCode easy problem of array
 - Prepaerd for the Last Computer Communication unversity practical exam
