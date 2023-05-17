@@ -158,3 +158,6 @@ Today , I studied about <br>
 ## Day 43 <br>
 - Solved leetCode easy problem of array
 - Prepaerd for the Last Computer Communication unversity practical exam
+## Day 44 <br>
+- Did some easy array question on LeetCode
+- And started the chatgpt clone with cwh
