@@ -161,3 +161,6 @@ Today , I studied about <br>
 ## Day 44 <br>
 - Did some easy array question on LeetCode
 - And started the chatgpt clone with cwh
+## Day 45 <br>
+- Today I started cloning [chatGpt](https://github.com/Anshojha/ChatGPT_Clone/commits/main)
+- 
